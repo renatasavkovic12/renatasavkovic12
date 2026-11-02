@@ -25,13 +25,13 @@ A full-stack web application designed for travel agencies to manage tourist offe
 
 A web application developed for beauty salons, allowing customers to explore available beauty services, make appointments, and manage reservations.
 
-**Technologies:** React, Tailwind CSS, Java.
+**Technologies:** React, Tailwind CSS, Java, Spring Boot, MySQL.
 
 **🚗 Rent a Car – Vehicle Rental Management System**
 
 A Java-based application for managing vehicle rentals, browsing available vehicles, and handling reservations.
 
-**Technologies:** Java, JavaFX, FXML.
+**Technologies:** Java, JavaFX.
 
 ### 📫 Connect with me
 
