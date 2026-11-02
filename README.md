@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Renata! 👋
 
-<!--
-**renatasavkovic12/renatasavkovic12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Web Development
 
-Here are some ideas to get you started:
+I'm passionate about software development, modern web technologies, and creating intuitive, user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring new technologies, solving programming challenges, and developing practical software solutions.
+
+### 🛠️ Technologies & Tools
+
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
+- **Backend:** Java, Spring Boot
+- **Database:** MySQL
+- **Tools:** GitHub, VS Code, IntelliJ IDEA, Eclipse
+
+### 🚀 Featured Projects
+
+**🌍 Travel the World – Travel Agency Admin Dashboard**
+
+A full-stack web application designed for travel agencies to manage tourist offers, passenger records, customer reviews, and agency analytics.
+
+**Technologies:** React, Tailwind CSS, Java, Spring Boot, MySQL.
+
+**💅 eBeautyCentar – Beauty Salon Management and Booking Application**
+
+A web application developed for beauty salons, allowing customers to explore available beauty services, make appointments, and manage reservations.
+
+**Technologies:** React, Tailwind CSS, Java.
+
+**🚗 Rent a Car – Vehicle Rental Management System**
+
+A Java-based application for managing vehicle rentals, browsing available vehicles, and handling reservations.
+
+**Technologies:** Java, JavaFX, FXML.
+
+### 📫 Connect with me
+
+- GitHub: [@renatasavkovic12](https://github.com/renatasavkovic12)
