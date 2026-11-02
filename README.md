@@ -1,6 +1,6 @@
 # Hi, I'm Renata! 👋
 
-### Software Developer | Web Development
+### Software Developer 
 
 I'm passionate about software development, modern web technologies, and creating intuitive, user-friendly applications.
 
